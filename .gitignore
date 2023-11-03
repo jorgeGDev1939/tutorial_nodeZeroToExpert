@@ -3,3 +3,5 @@ node_modules
 /node_modules
 node_modules/
 message.txt
+package-lock.json
+./03_bases_node/ejercicio6_yargs/salida/*.txt
